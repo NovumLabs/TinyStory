@@ -24,15 +24,11 @@ code is meant to be read.
 
 ## Installation
 
-```bash
-git clone https://github.com/<your-username>/TinyStory.git
+git clone https://github.com/NovumLabs/TinyStory.git
 cd TinyStory
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
-```
-
-Python 3.10 or newer is required. A GPU is optional.
 
 ## Quick start
 
