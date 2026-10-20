@@ -167,6 +167,22 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Project Gutenberg](https://www.gutenberg.org) for public-domain texts.
 - Andrej Karpathy's *nanoGPT* and "Let's build GPT" video, which inspired the structure of this code.
 
+## Citation
+
+If you use this model, dataset, or code in your research, please cite our technical report:
+
+```bibtex
+@techreport{khan2026tinystory,
+  title={Developmental Analysis and Technical Report: Small Language Model (SLM) Training from Scratch},
+  author={Khan, Arnab},
+  institution={Novum Labs Pvt. Ltd.},
+  year={2026},
+  type={Preprint},
+  month={October},
+  version={v1.0.0},
+  url={[https://zenodo.org/records/23223227](https://zenodo.org/records/23223227)}
+}
+
 ## License
 
 Code: [MIT](LICENSE). Datasets and books keep their own licenses; see
