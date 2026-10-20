@@ -1,0 +1,13 @@
+# CITATION.cff
+# Citation metadata for this repository, in Citation File Format 1.2.0
+# (https://citation-file-format.github.io). GitHub reads this file and shows a
+# "Cite this repository" button that generates APA and BibTeX entries.
+#
+# Before publishing, replace the placeholders:
+#   - repository-code: <your-username> -> your GitHub username
+#   - authors: <Your Family Name> / <Your Given Name> -> your real name
+#
+# When you tag a new release, update "version" and "date-released".
+# The "license" value must match the LICENSE file (MIT).
+# The "references" section credits the TinyStories and SimpleStories papers
+# that this project builds on. It is not the preferred citation for this repository.
